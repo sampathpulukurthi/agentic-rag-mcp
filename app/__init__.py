@@ -1,0 +1,1 @@
+"""MCP Agentic RAG Application"""
